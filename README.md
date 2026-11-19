@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="./hero.svg" width="100%" alt="certier — Android systems, graphics, experiments" />
+  <img src="./hero.svg" width="100%" alt="certier — curious about Android, graphics, and systems" />
 </p>
 
 <p align="center">
-  <code>ANDROID SYSTEMS</code> &nbsp;·&nbsp; <code>RUST</code> &nbsp;·&nbsp; <code>GRAPHICS</code> &nbsp;·&nbsp; <code>LOW-LEVEL CODE</code>
+  <strong>Hey, I’m certier.</strong>
 </p>
 
 <p align="center">
-  <em>I like making small devices do more than their specs suggest.</em>
+  I get curious about how things work, then keep poking until they do something unexpected.<br />
+  Lately that curiosity lives around Android, graphics, and systems code.<br />
+  Still learning, still experimenting, and usually one question away from a new rabbit hole.
 </p>
 
 <p align="center">
@@ -17,8 +19,6 @@
   <img src="https://img.shields.io/badge/Java-11131C?style=for-the-badge&logo=openjdk&logoColor=C4FF68" alt="Java" />
 </p>
 
----
-
 <p align="center">
-  <code>STATUS: FOCUSING</code> &nbsp; / &nbsp; <code>MODE: BUILD</code>
+  <code>🎯 CURRENTLY FOCUSING</code> &nbsp; · &nbsp; <code>HAPPY TO EXPERIMENT</code>
 </p>
