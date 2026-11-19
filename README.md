@@ -1,27 +1,24 @@
-<div align="center">
+<p align="center">
+  <img src="./hero.svg" width="100%" alt="certier — Android systems, graphics, experiments" />
+</p>
 
-<img src="./profile-banner.png" alt="Dark neon profile banner" width="100%" />
+<p align="center">
+  <code>ANDROID SYSTEMS</code> &nbsp;·&nbsp; <code>RUST</code> &nbsp;·&nbsp; <code>GRAPHICS</code> &nbsp;·&nbsp; <code>LOW-LEVEL CODE</code>
+</p>
 
-# certier
+<p align="center">
+  <em>I like making small devices do more than their specs suggest.</em>
+</p>
 
-### NOT HERE TO BUILD THE USUAL.
-
-**Android · Rust · graphics · systems**
-
-*Making small devices do unreasonable things.*
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-11131C?style=for-the-badge&logo=rust&logoColor=C4FF68" alt="Rust" />
+  <img src="https://img.shields.io/badge/Android-11131C?style=for-the-badge&logo=android&logoColor=C4FF68" alt="Android" />
+  <img src="https://img.shields.io/badge/C-11131C?style=for-the-badge&logo=c&logoColor=C4FF68" alt="C" />
+  <img src="https://img.shields.io/badge/Java-11131C?style=for-the-badge&logo=openjdk&logoColor=C4FF68" alt="Java" />
+</p>
 
 ---
 
-```text
-CURRENT MODE   focused
-INTERESTS      game tech · low-level code · experiments
-ENERGY         curious, stubborn, terminally online
-```
-
-<div align="center">
-
-`LESS TALK. MORE BUILD.`
-
-</div>
+<p align="center">
+  <code>STATUS: FOCUSING</code> &nbsp; / &nbsp; <code>MODE: BUILD</code>
+</p>
