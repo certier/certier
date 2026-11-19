@@ -10,4 +10,6 @@ I’m interested in Android development, systems programming, and graphics. I li
   <img src="./profile-cards.svg" width="100%" alt="Interests: Android and systems. Tools: Rust, C, and Java. Current status: focusing." />
 </p>
 
+<p align="center"><sub>Avatar art: <a href="https://www.pinterest.com/pin/639440847142029958/">Kobayashi fan art on Pinterest</a>.</sub></p>
+
 Thanks for stopping by.
